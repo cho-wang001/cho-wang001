@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @cho-wang001
+- I from Shenzhen, Guangdong, P.R. China
+- I graduated from Northeastern University (China) and currently studying at Brown University🐻
 - I’m interested in soccer, travel and reading
 - I’m currently learning deep learning and computer vision algorithms
 
